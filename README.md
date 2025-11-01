@@ -1,5 +1,5 @@
 # 💫 About Me:
-🗺️ Region Stuttgart, Baden-Württemberg<br>🎓 Software Engineering, 3rd Semester<br>👩‍💻Currently working on a time tracking application using the ASP .NET framework<br>🧑‍🎨 Likes to design in the free time<br>🚀Always curious and ready to try out new ideas
+🗺️ Region Stuttgart, Baden-Württemberg<br>🎓 Studying Software Engineering, 3rd Semester<br>👩‍💻Currently working on a time tracking application using the ASP .NET framework<br>🧑‍🎨 Likes to design in the free time<br>🚀Always curious and ready to try out new ideas
 
 
 ## 🌐 Socials:
