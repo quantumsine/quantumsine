@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm Quantumsine, a student based in Southwest Germany.
+I'm shandao, a student based in Southwest Germany.
 
 I like to design in the free time.
 
